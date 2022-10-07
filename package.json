@@ -1,7 +1,7 @@
 {
   "name": "andrews-portfolio",
   "description": "Andrew's portfolio",
-  "homepage": "#",
+  "homepage": "https://buudee625.github.io",
   "version": "2.0.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
