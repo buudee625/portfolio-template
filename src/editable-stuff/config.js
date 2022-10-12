@@ -46,7 +46,7 @@ const about = {
   imageLink: require('../editable-stuff/drew-pfp.png'),
   imageSize: 375,
   message:
-    "Heya! You've reached Drew, or Andrew. Have you heard of the term 'golden brain'? It apparently describes people who engage both their right and left brain, similar to being ambidexerous! Well, when I'm not coding I'm playing guitar. So I may not be able to call myself the golden child, but I think I can myself a golden brain",
+    "Heya! You've reached Andrew, or Drew. Have you heard of the term 'golden brain'? Similar to being ambidextrous, 'golden brain' describes people who engage both of their right and left brains! Well, when I'm not coding I'm playing guitar, so I may not be able to call myself the golden child, but I think I may qualify calling myself a golden brain.",
   resume:
     'https://docs.google.com/document/d/103xYrj7amLs4WnmIMFk-Jmgh1wIiECFHv_w_dF8uUpM/edit?usp=sharing',
 };
